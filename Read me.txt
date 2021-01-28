@@ -1,0 +1,1 @@
+This project is about predicting prices of house in a certain locality based on the training dataset provided. The main aim was to find out why random forest regression fails to predict correct values and didnt give the proper accuracy. 
